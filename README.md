@@ -1,5 +1,9 @@
 # ssr-demo
 
+> nuxt + SSR + ant-design-vue + veui + less
+
+[更多介绍](https://juejin.cn/post/6949055965769498655/)
+
 ## Build Setup
 
 ```bash

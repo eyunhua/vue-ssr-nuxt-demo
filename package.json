@@ -1,0 +1,26 @@
+{
+  "name": "ssr-demo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "ant-design-vue": "^1.7.4",
+    "core-js": "^3.9.1",
+    "nuxt": "^2.15.3",
+    "veui": "^2.0.0-beta.30",
+    "veui-theme-blue": "^2.0.0-alpha.5",
+    "vue-awesome": "^4.1.0"
+  },
+  "devDependencies": {
+    "babel-plugin-import": "^1.13.3",
+    "babel-plugin-veui": "^2.0.0-beta.30",
+    "less": "^3.13.1",
+    "less-loader": "^5.0.0",
+    "veui-loader": "^2.0.0-beta.30"
+  }
+}
